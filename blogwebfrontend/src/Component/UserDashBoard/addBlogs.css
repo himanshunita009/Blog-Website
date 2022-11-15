@@ -1,0 +1,5 @@
+.addBlog-back , .addBlog-back > .para {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}

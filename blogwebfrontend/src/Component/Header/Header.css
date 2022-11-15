@@ -1,0 +1,11 @@
+.head-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: dodgerblue;
+    padding: var(--space1rem) var(--space3rem);
+}
+.head-main > .company-name{
+    font-size: var(--companyNameSize);
+}

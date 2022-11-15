@@ -1,0 +1,6 @@
+.footer-main {
+    background-color: dodgerblue;
+    color: black;
+    text-align: center;
+    padding: var(--space1rem);
+}

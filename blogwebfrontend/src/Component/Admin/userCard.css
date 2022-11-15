@@ -1,0 +1,6 @@
+.user-card-back {
+    border: 2px solid black;
+    margin: auto;
+    border-radius: var(--space1rem);
+    padding: var(--space1rem);
+}
